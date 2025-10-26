@@ -7,13 +7,14 @@ h1{
 }
 h2{
     text-align: center;
-    font-size: 35px;
+    font-size: 50px;
     text-decoration: underline 2px;
     text-decoration-color: white;
     text-underline-offset: 10px;
 }
 * {
     font-family: 'garamond';
+    color: #FFFDD0;
 }
 body{
     background: #ba4073;
@@ -25,6 +26,7 @@ button{
     background:radial-gradient(ellipse,white 30%, #FFFDD0 40%, #ba4073 60%);
     border: none;
     cursor: pointer;
+    color: black;
 }
 a{
     text-decoration: none;
