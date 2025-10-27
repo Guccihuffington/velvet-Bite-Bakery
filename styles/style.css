@@ -2,7 +2,7 @@ h1{
     text-align:center;
     border: 2px solid #FFFDD0;
     border-radius: 25px;
-    font-size: 100px;
+    font-size: 75px;
     font-family: cursive;
 }
 h2{
@@ -14,7 +14,6 @@ h2{
 }
 * {
     font-family: 'garamond';
-    color: #FFFDD0;
 }
 body{
     background: #ba4073;
@@ -47,6 +46,15 @@ td{
 }
 tbody tr:hover{
     background-color: lightgray;
+}
+form {
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+fieldset {
+    margin-bottom: 20px;
+    padding: 15px;
 }
 input{
     background-color: #f1a3b0;
